@@ -1,6 +1,6 @@
 ## Computerized Analytics and Hockey, What Could Go Wrong?
 
-Having COVID-19 sucks, but luckily hockey keeps me entertained and so does programming. I built a minor predictive analytics tool that follows input from a `.csv` file about the [Vegas Golden Knights](https://www.nhl.com/goldenknights), for the 2017-2019 seasons. Unfortunately I'm not good at keeping up with publishing code, so this is a few months late.
+Having COVID-19 sucks, but luckily hockey keeps me entertained and so does programming. I built a minor predictive analytics tool that follows input from a `.csv` file about the [Vegas Golden Knights](https://www.nhl.com/goldenknights), for the 2017-2019 seasons, pulled from data from [Hockey-reference.com](https://www.hockey-reference.com/teams/VEG/head2head.html). Unfortunately I'm not good at keeping up with publishing code, so this is a few months late.
 
 ## vgk_analytics.py
 
